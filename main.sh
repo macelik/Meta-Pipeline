@@ -10,7 +10,7 @@ export PATH=$dir/installed_tools/kraken:$PATH
 export PATH=$dir/installed_tools/Clark/exe:$PATH
 export PATH=/$dir/installed_tools/Clark:$PATH
 ### Selection of Database
-DataType="$(zenity --list --radiolist --text 'Selection of Database:' --column 'Select...' --column 'Database' FALSE '16SRNA' FALSE 'V3-V4 Hyper Variable Region' FALSE 'Complete Genom')"
+DataType="$(zenity --list --radiolist --text 'Selection of Database:' --column 'Select...' --column 'Database' FALSE '16SRNA' FALSE 'Kefir DB' FALSE 'Complete Genom')"
 zenity --info --width=400 --height=200 --text "Your have chosen $DataType"
 zenity --info --title="Welcome" --text="Please Select Your Fastq/Fasta File"
 
