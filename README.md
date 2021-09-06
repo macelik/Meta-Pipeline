@@ -23,7 +23,9 @@ Metagenomics has been increasingly becoming very important in studies of human a
         - Comparsion_Raw_Table is same as above without filteration.
 
 ************************
+## Sample Output
 
+************************
 ## How to get involved?
 
 If you are interested and you can make a contribution to the project, please fork it.
