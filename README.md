@@ -24,10 +24,11 @@ Metagenomics has been increasingly becoming very important in studies of human a
 
 ************************
 ## Sample Output
+The results below belong to Kefir simulated data. Filtered at Species level with a threshold of 5 percent. Unclassified portion is always shown regardless of the threshold. 
 ![Comparison of outputs in a bar plot](/sample/bar_grouped.png)
 
 ### Sample Output of CSV files.
-There are two csv files produced filtered one includes only the user defined taxonomy level (Pyhlum, Genus or Species) above a threshold set by the user while raw csv files includes everything. Below is the sample of filtered csv file at Pyhlum level, threshold is set to 5 percent. 
+There are two csv files produced, filtered one includes only the user defined taxonomy level (Pyhlum, Genus or Species) above a threshold set by the user while raw csv files includes everything.
 
 ![image](https://user-images.githubusercontent.com/41537897/132211902-07cbbd47-5fbc-497f-aef5-ec1f25225d41.png)
 
