@@ -30,7 +30,7 @@ The results below belong to Kefir simulated data. Filtered at Species level with
 ![Comparison of outputs in a bar plot](/sample/bar_grouped.png)
 
 ### Sample Output of CSV files.
-There are two csv files produced, filtered one includes only the user defined taxonomy level (Pyhlum, Genus or Species) above a threshold set by the user while raw csv files includes everything.
+There are two csv files produced, filtered one includes only the user defined taxonomy level (Pyhlum, Genus or Species) which are also above a threshold set by the user while raw csv files includes everything.
 
 ![image](https://user-images.githubusercontent.com/41537897/132211902-07cbbd47-5fbc-497f-aef5-ec1f25225d41.png)
 
